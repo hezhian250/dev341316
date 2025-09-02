@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_624663_iccs.iccs_table2_user" name="x_624663_iccs.iccs_table2_user">90d75e2c8373a210d2099e30ceaad3e3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-02 07:05:42</sys_created_on>
+        <sys_id>14d75e2c8373a210d2099e30ceaad3e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>90d75e2c8373a210d2099e30ceaad3e3</sys_name>
+        <sys_package display_value="ICCS" source="x_624663_iccs">a8b6747283132210d2099e30ceaad398</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ICCS">a8b6747283132210d2099e30ceaad398</sys_scope>
+        <sys_update_name>sys_embedded_help_role_14d75e2c8373a210d2099e30ceaad3e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-02 07:05:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

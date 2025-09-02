@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="iccs_table2">58d79e2c8373a210d2099e30ceaad382</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>iccs_table2s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_624663_iccs_iccs_table2</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_624663_iccs.iccs_table2_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-02 07:05:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4d79e2c8373a210d2099e30ceaad387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>iccs_table2s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ICCS" source="x_624663_iccs">a8b6747283132210d2099e30ceaad398</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ICCS">a8b6747283132210d2099e30ceaad398</sys_scope>
+        <sys_update_name>sys_app_module_d4d79e2c8373a210d2099e30ceaad387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-02 07:05:42</sys_updated_on>
+        <timeline_page/>
+        <title>iccs_table2s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
